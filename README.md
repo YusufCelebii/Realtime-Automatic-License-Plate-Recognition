@@ -29,7 +29,6 @@ This project implements a system for detecting and tracking vehicles in video st
 
 ## License
 
-This project is licensed under the [MIT License]
+This project is licensed under the MIT License
 
-[Uploading LICENSE…]()
 
